@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "693638692471",
+    "project_id": "chatapp-3a270",
+    "storage_bucket": "chatapp-3a270.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:693638692471:android:7fd419ac6c7ffeca465072",
+        "android_client_info": {
+          "package_name": "com.saad.chat_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtgFSuOXyOXoaEG4rHFhNVsfTO5ViSv6g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
